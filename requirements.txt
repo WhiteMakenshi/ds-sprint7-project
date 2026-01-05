@@ -1,0 +1,12 @@
+# Kernel y Utilidades
+ipykernel
+jupyter
+notebook
+
+# Ciencia de Datos Básica
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+streamlit
